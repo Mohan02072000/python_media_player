@@ -1,0 +1,16 @@
+##Requirements
+import pafy
+import vlc
+import urllib.request
+import re
+
+
+##Documentation
+This documentation describes how to use the methods in the script
+Player.youtube_url():takes one string argument(keyword to search):returns url of the first video that appears on searching with the keyword on youtube.
+Player.downloader():takes one string as argument(url of the video to download):returns local url after downloading the video.
+Player.media_player():takes one string as argument, url from local machine after downloading or address of video in local machine:no return value.
+    This is the prebuilt program you can use for playing videos. It has an infinite while loop running which breaks when the video is stopped. Commands are, pause: to pause the video
+    play:to play the video, stop:to stop video playback
+Hope this helps. If the file as total doesnot, maybe the codes will
+    
