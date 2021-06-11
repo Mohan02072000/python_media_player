@@ -61,6 +61,7 @@ class Player:
                 break
             else:
                 print("Wrong command")
+        media.release()
 
         input("press enter to quit")
 
