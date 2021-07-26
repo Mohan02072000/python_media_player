@@ -1,8 +1,8 @@
-##Requirements
-import pafy
-import vlc
-import urllib.request
-import re
+##Requirements##
+pafy
+vlc
+urllib.request
+re
 
 
 ##Documentation
