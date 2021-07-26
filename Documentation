@@ -5,7 +5,7 @@ urllib.request
 re
 
 
-##Documentation
+##Documentation##
 This documentation describes how to use the methods in the script
 Player.youtube_url():takes one string argument(keyword to search):returns url of the first video that appears on searching with the keyword on youtube.
 Player.downloader():takes one string as argument(url of the video to download):returns local url after downloading the video.
